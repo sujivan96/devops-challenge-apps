@@ -10,3 +10,4 @@ api:
   environment:
     - PORT=${API_PORT}
     - DB=${API_DB}
+`
